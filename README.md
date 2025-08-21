@@ -2,6 +2,8 @@
 
 Visit the website here: https://vishwaspuriofficial.github.io/SkinAI-Classifier/
 
+Link to Research Paper: https://drive.google.com/file/d/1aN7-3crUm36CTwSxI7b0S2ze61kfU6we/view?usp=sharing
+
 <img width="1495" height="893" alt="image" src="https://github.com/user-attachments/assets/ae39ae24-ac57-4fcc-8a80-f644c1c3dca6" />
 
 
@@ -34,5 +36,6 @@ The project highlights the challenges of medical image classification and demons
 - Transfer learning provides substantial gains over training CNNs from scratch.  
 - Grad-CAM improves trust and interpretability by validating that the model focuses on clinically relevant regions.  
 - This project deepened our understanding of **model generalization, class imbalance, and the role of interpretability in medical AI**.  
+
 
 
