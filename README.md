@@ -27,7 +27,7 @@ The project highlights the challenges of medical image classification and demons
 - ✅ ResNet18 significantly outperformed the baseline CNN in accuracy and training efficiency.  
 - ✅ Grad-CAM revealed that the model consistently focused on lesion regions, aligning with dermatologists’ diagnostic approach.  
 - ⚠️ Most classes were well-identified, but **BCC (Basal Cell Carcinoma)** and **BKL (Benign Keratosis-like Lesions)** were harder to distinguish due to visual similarities.  
-- 🎯 Overall test accuracy: **~79%**, which is considered strong for this task (70%+ is reasonable in literature).  
+- 🎯 Overall test accuracy: **~79%**, which is considered strong for this task (70%+ is reasonable in related works).  
 
 ---
 
@@ -36,6 +36,7 @@ The project highlights the challenges of medical image classification and demons
 - Transfer learning provides substantial gains over training CNNs from scratch.  
 - Grad-CAM improves trust and interpretability by validating that the model focuses on clinically relevant regions.  
 - This project deepened our understanding of **model generalization, class imbalance, and the role of interpretability in medical AI**.  
+
 
 
 
