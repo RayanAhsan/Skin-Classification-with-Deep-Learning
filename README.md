@@ -1,5 +1,7 @@
 # 🩺 Skin Lesion Classification using Deep Learning  
 
+Visit the website here: https://vishwaspuriofficial.github.io/SkinAI-Classifier/
+
 ## 📌 Overview  
 This project implements a deep learning pipeline to classify skin lesions into **7 categories** using the HAM10000 dataset.  
 We compare a **baseline CNN** against a **transfer learning approach with ResNet18**, and apply **Grad-CAM** for interpretability.  
@@ -29,3 +31,4 @@ The project highlights the challenges of medical image classification and demons
 - Transfer learning provides substantial gains over training CNNs from scratch.  
 - Grad-CAM improves trust and interpretability by validating that the model focuses on clinically relevant regions.  
 - This project deepened our understanding of **model generalization, class imbalance, and the role of interpretability in medical AI**.  
+
